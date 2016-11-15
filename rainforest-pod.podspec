@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'rainforest-pod'
-  s.version = '1.0.6'
+  s.version = '1.0.7'
   s.license = 'MIT'
   s.summary = 'Rainforest iOS framework'
   s.author = 'Rainforest QA'
