@@ -2,7 +2,7 @@
 
 CocoaPod for the Rainforest.framework.
 
-More details about how to use the framework and how to start testing your iOS app with [Rainforest QA](http://www.rainforestqa.com) can be found at our [support page](http://support.rainforestqa.com/hc/en-us/articles/222170227-Testing-your-Native-iOS-Applications).
+More details about how to use the framework and how to start [testing your iOS app](https://www.rainforestqa.com/product/mobile-app-testing/) with Rainforest QA can be found at our [support page](https://intercom.help/rainforest/mobile-testing/ios/testing-native-ios-applications-on-a-real-device).
 
 
 ## Installation
